@@ -9,7 +9,7 @@ Simple echo Telegram bot example on aiogram framework using AWS API Gateway & La
 ## Deploy
 ### Create deployment package
 - Clone this repository: `git clone https://github.com/DavisDmitry/aiogram-aws-serverless-example.git`
-- Change to the directory with the repository copy: `cd aiogram-aws-serverless`
+- Change to the directory with the repository copy: `cd aiogram-aws-serverless-example`
 - Run create-package bash script: `./create-package.sh`
 ### Create, configure and deploy a Lambda function
 - [Create a new bot at botfather](https://core.telegram.org/bots#6-botfather)
